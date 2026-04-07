@@ -1,0 +1,9 @@
+TABLE_NAME,COLUMN_NAME
+dbo.PurchaseOrderDetail,PurchaseOrderID
+dbo.PurchaseOrderDetail,LineNumber
+dbo.PurchaseOrderDetail,ProductID
+dbo.PurchaseOrderDetail,UnitPrice
+dbo.PurchaseOrderDetail,OrderQty
+dbo.PurchaseOrderDetail,ReceivedQty
+dbo.PurchaseOrderDetail,RejectedQty
+dbo.PurchaseOrderDetail,DueDate
